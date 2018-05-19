@@ -1,0 +1,8 @@
+yarn-error.log
+node_modules/
+.env
+dist/
+dist-server/
+src/config/api.js
+.idea/
+.cache/
